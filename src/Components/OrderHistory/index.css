@@ -1,0 +1,43 @@
+.listItem {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.delete-icon {
+  height: 30px;
+  width: 25px;
+  background-color: #ffffff;
+  margin-right: 10px;
+}
+.button {
+  background-color: #ffffff;
+  border-style: none;
+}
+.product-set {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.text-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.logo-url {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+.time {
+  margin-right: 60px;
+}
+.title {
+  margin-right: 20px;
+}
+.domainUrl {
+  font-size: 15px;
+  color: #2850a7;
+}

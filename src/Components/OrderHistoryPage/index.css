@@ -1,0 +1,42 @@
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+}
+.history-container {
+  background-color: #3367d6;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: 70px;
+  align-items: center;
+}
+.logo-img {
+  height: 50px;
+  width: 170px;
+  margin-left: 100px;
+}
+.input-El-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 300px;
+}
+.input-El {
+  width: 400px;
+  height: 30px;
+  margin-left: 7px;
+  background-color: #2850a7;
+}
+.search-img {
+  background-color: #2850a7;
+  height: 30px;
+}
+
+.history-con {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
